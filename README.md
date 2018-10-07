@@ -6,6 +6,6 @@ I made this because all the online tweet deleters require payment to delete more
 ## how to use this
 You want to follow this tutorial [here](https://medium.freecodecamp.org/how-to-delete-your-past-tweets-in-bulk-and-for-free-save-yourself-from-your-past-self-f8844cdbda2)
 
-I modified the code from the Quincy Larson so that it would work with python 3 and do more.
+I modified the code from Quincy Larson so that it would work with python 3 and do more.
 
 ![Alt Text](https://github.com/MichaelDao/Yeet-The-Tweet/blob/master/delete.gif)
