@@ -1,11 +1,11 @@
 # Yeet-The-Tweet
-Say goodbye to all the tweets you made years ago
+I have too many embaressing old tweets I don't want to see anymore.
 
-I made this because all the online tweet deleters require payment to delete more than 10 tweets, and I have some old tweets I don't want to see anymore.
+So I modified a python script from Quincy Larson.
 
 ## how to use this
-You want to follow this tutorial [here](https://medium.freecodecamp.org/how-to-delete-your-past-tweets-in-bulk-and-for-free-save-yourself-from-your-past-self-f8844cdbda2)
+You can follow this tutorial [here](https://medium.freecodecamp.org/how-to-delete-your-past-tweets-in-bulk-and-for-free-save-yourself-from-your-past-self-f8844cdbda2)
 
-I modified the code from Quincy Larson so that it would work with python 3 and do more.
+Simply put, I downloaded my twitter archive straight from my twitter settings, found the consumer keys from twitter developer and combined everything together to automatically delete all my tweets from a certain date.
 
 ![Alt Text](https://github.com/MichaelDao/Yeet-The-Tweet/blob/master/delete.gif)
